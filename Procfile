@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run mysecondapp.py
+web: sh setup.sh && streamlit run sklearn.py
